@@ -1,6 +1,8 @@
 # Argument范文
 
+<img src="./Background.jpg" width="850" height="">
 ![avatar](/Background.jpg)
+
 
 
 
