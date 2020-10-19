@@ -1,7 +1,7 @@
 # Argument范文
 
-<img src="./Background.jpg" width="850" height="">
-![avatar](/Background.jpg)
+<img src="./img/BG_Argu.jpg" width="850" height="">
+![avatar](/img/BG_Argu.jpg)
 
 
 
