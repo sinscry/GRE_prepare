@@ -64,7 +64,3 @@
         * Another point(自然过渡) the author stresses is that the use of the land for things like athletic fields somehow rationalizes the destruction of the park. What about children who don't play sports? Without the school, they could enjoy the land for anything. A playing field is a playing field. Children are not going to go out there unless they are into sports. There are many children in schools who are not interested in or are not able to play sports. This is yet another group who will be left out of the grand benefits of a school that the author talks about.(指出park和运动场的区别，表明运动场并非好事)
 
         * The author's conclusion that "there would be no better use of land in our community than this.." is easily arguable. THe destruction of Scott Woods for the purpose of building a school would not only affect the ambience of Morganton, it would affect who would and would not be able to utilize the space. If the residents as a whole voted to keep Scott Woods in an undeveloped state, this argument will not sway their decision. The use of the land for a school will probably benefit even less people than a shopping center would. The whole purpose of the vote was to keep the land as an asset for everyone. THe only way to do this is to keep it in an undeveloped state. Using the land for school does not accomplish this.(总结，同样的意思却不重复说法，这总结是全文经典)
-
-3. 2020/10/22 9：55
-    * 测试代码
-        
